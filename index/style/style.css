@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+background-color: aqua;
+
+}
+
+h1 {
+color: midnightblue;
+font-size: 35px;
+
+}
+
+footer {
+background-color: #639cc0;
+
+}
+
+footer p {
+background-color: rgb(192, 198, 255);
+
+}
+
+nav {
+background-color: rgb(169, 212, 255);
+text-align: center;
+
+}
+
+p {
+background-color: rgb(186, 178, 214);
+
+}
+
+h2 {
+color: rgb(45, 0, 71);
+
+}
+
+main {
+margin: 20px;
+
+}
